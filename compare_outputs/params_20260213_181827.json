@@ -1,0 +1,16 @@
+{
+  "before": {
+    "time_limit_sec": 10,
+    "drop_penalty": 10000000,
+    "frozen_dry_penalty": 10000000,
+    "vehicle_fixed_cost": 240000,
+    "wait_cost_coeff": 200
+  },
+  "after": {
+    "time_limit_sec": 10,
+    "drop_penalty": 10000000,
+    "frozen_dry_penalty": 10000000,
+    "vehicle_fixed_cost": 556058,
+    "wait_cost_coeff": 0
+  }
+}
