@@ -151,7 +151,7 @@ def compute_delta_objective_per_order(
 # -----------------------------
 def main(
     out_dir: str = "ml_data",
-    n_scenarios: int = 50,
+    n_scenarios: int = 1000,
     seed0: int = 20260213,
     make_regression_labels: bool = False,
 ):
